@@ -1,3 +1,5 @@
+> ⚠️ Deprecated in favour of [@packasso](https://github.com/qiwi/packasso)
+
 # Create and build modern JavaScript applications with zero initial configuration
 
 Neutrino is a companion tool which lets you build web and Node.js applications with shared presets or configurations.
