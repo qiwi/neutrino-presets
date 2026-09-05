@@ -24,7 +24,7 @@
   "dependencies": {
     "@neutrinojs/style-loader": "^9.0.0-rc.0",
     "deepmerge": "^3.0.0",
-    "less": "^3.9.0",
+    "less": "^4.0.0",
     "less-loader": "^4.1.0"
   },
   "peerDependencies": {
